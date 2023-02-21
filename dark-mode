@@ -1,7 +1,8 @@
-I'm also implementing
+Light/Dark mode implemented by shayam
 
-Moved to another branch
-pull the latest code from all branches
-and then implementing my own and trying to push
+--
+Here I'm trying modifying the file that is being already modified by some other use x [SHubham]
 
-Will this create conflict?
+Create conflict: If I start working without pull and accidently started modifing the the file that is already modified by some other user
+
+Don't conflit: If first I pull then start my working!!
